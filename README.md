@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://foxkdev.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-961711?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/badge/-Portfolio-961711?style=for-the-badge&color=blue"/>
   </a>
   <a href="https://twitter.com/FoxkDev" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-961711?logo=twitter&logoColor=white&style=for-the-badge&color=blue"/>

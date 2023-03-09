@@ -140,5 +140,5 @@ Hello! I'm Carlos and I'm an software engineer with a passion for web developmen
 </br>
 </br>
 
-<h4 align="center" color="white">***Good look Alexis****</h4>
+<h6 align="center" color="white">- Good luck Alexis ;) -</h6>
 

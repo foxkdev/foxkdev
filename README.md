@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://foxkdev.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-961711?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Portfolio-961711?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge&color=blue"/>
   </a>
   <a href="https://twitter.com/FoxkDev" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-961711?logo=twitter&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Twitter-961711?logo=twitter&logoColor=white&style=for-the-badge&color=blue"/>
   </a>
   <a href="https://www.linkedin.com/in/kloppz/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-961711?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Linkedin-961711?logo=linkedin&logoColor=white&style=for-the-badge&color=blue"/>
   </a>
   <a href="mailto:foxkdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-foxkdev@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-foxkdev@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge&color=blue"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <h2 align="center" color="white">About Me</h2>
 <p align="center">
-Hello! I'm Carlos and I'm an insatiably inquisitive software engineer with a passion for web development. Currently targeting full-stack, backend, or frontend roles using JavaScript, Typescript, Node, Express, MongoDB, and/or Svelte, Vue or React. Aside from programming, I enjoy anime, personal and community development, constantly learning, and forever growing.
+Hello! I'm Carlos and I'm an software engineer with a passion for web development. Currently with full-stack, backend, or frontend roles using JavaScript, Typescript, Node, Express, MongoDB, Svelte, Vue or React. Aside from programming, I support community development, always learning, and create content to support community.
 <p>
 
 <br>
@@ -36,10 +36,10 @@ Hello! I'm Carlos and I'm an insatiably inquisitive software engineer with a pas
 				<div align="center" >  
 					<p>
 						<a href="https://github.com/foxkdev/foxkdev.github.io" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=blue"/>
 						</a>  
 						<a href="https://foxkdev.github.io/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=blue"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio site that showcases a few of my projects and includes ways to contact me.</p>
@@ -50,10 +50,10 @@ Hello! I'm Carlos and I'm an insatiably inquisitive software engineer with a pas
 				<div align="center" >  
 					<p>  
 						<a href="https://kettu.tv/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=blue"/>
 						</a>	
 					</p>
-					 <p><strong>MongoDB + Mongoose, Nest.js, Node, JavaScript, EJS</strong> - A streaming platform to small content creators.</p>
+					 <p><strong>MongoDB + Mongoose, Postgres + Prisma, Nest.js, Node, JavaScript, Svelte in front</strong> - A streaming platform to spanish content creators and community.</p>
 				</div>
 			</td>
 		</tr>
@@ -120,23 +120,25 @@ Hello! I'm Carlos and I'm an insatiably inquisitive software engineer with a pas
 
 <!-- SOCIALS -->
  
-<h2 align="center" color="white">Connect with me 🤍</h2>
+<h2 align="center" color="white">Connect with me (or not)</h2>
 <div align="center">
   <p align="center">
     <a href="https://foxkdev.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-961711?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Portfolio-961711?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge&color=blue"/>
     </a>
     <a href="https://twitter.com/FoxkDev" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-961711?logo=twitter&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Twitter-961711?logo=twitter&logoColor=white&style=for-the-badge&color=blue"/>
     </a>
     <a href="https://www.linkedin.com/in/kloppz/" target="_blank">
-      <img src="https://img.shields.io/badge/-Linkedin-961711?logo=linkedin&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Linkedin-961711?logo=linkedin&logoColor=white&style=for-the-badge&color=blue"/>
     </a>
     <a href="mailto:foxkdev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-foxkdev@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-foxkdev@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge&color=blue"/>
     </a>
   </p>
 </div>
-<br>
 </br>
+</br>
+
+<h4 align="center" color="white">***Good look Alexis****</h4>
 
